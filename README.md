@@ -12,11 +12,17 @@ This is an Explanation of Data, It's Uses, Importance and Functionality In The S
 [wikepedia](https://en.wikipedia.org/wiki/Data_analysis)
 
 ## Problem Statement
-The goal of this trainindg is to:
+The goal of this training is to:
 
-Know what data is and it's importance 
-Identify ways of analyzing data and tools required 
-Identify different types of data and their meaning
-Data visualisation tools eg SQL, Tableau,Power Bi,Excel etc
-Get hands on project to challege tech skills
-Use the insight gained to work on real work cases in companies and become a certified Data Analyst
+* Know what data is and it's importance 
+* Identify ways of analyzing data and tools required 
+* Identify different types of data and their meaning
+* Data visualisation tools eg SQL, Tableau,Power Bi,Excel etc
+* Get hands on project to challege tech skills
+* Use the insight gained to work on real work cases in companies and become a certified Data Analyst
+
+## Data Science
+Data science can be defined as the proccess of gathering,storing,analyzing and plotting data for it to effectively carry extract useful information. the two major type of data that are analyzed are:
+
+Qualitative Data                   |        Quantitative Data
+:--------------------------------:| :--------------------------------:
